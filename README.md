@@ -2,8 +2,8 @@
  Today I Learned
 
 ## CSS
-     [Flexbox](https://github.com/joji7752/TIL/blob/main/CSS/210309.md#1flexbox)
-     [Grid]https://github.com/joji7752/TIL/blob/main/CSS/210310.md#2grid
-     [SCSS]https://github.com/joji7752/TIL/blob/main/CSS/210315.md#3scss
+[Flexbox](https://github.com/joji7752/TIL/blob/main/CSS/210309.md#1flexbox)
+[Grid](https://github.com/joji7752/TIL/blob/main/CSS/210310.md#2grid)
+[SCSS](https://github.com/joji7752/TIL/blob/main/CSS/210315.md#3scss)
      
 ## Gulp 
